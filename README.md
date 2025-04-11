@@ -108,11 +108,3 @@ A bar chart focusing on offline streaming activity. It reflects periods when I r
 
 ## Acknowledgments
 This project was driven by my love for music and curiosity about my listening habits. I utilized Spotify's streaming history export feature to access and analyze my personal data, showcasing how we can derive meaningful insights from the data we own.
-
----
-
-## Connect With Me
-If you found this project interesting:
-- Let’s connect and discuss your insights on [LinkedIn](https://www.linkedin.com/in/sai-shanmukh/)
-
-Feel free to share your thoughts or let me know how you analyze your streaming data!
